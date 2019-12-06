@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://C:/HZ JAVA/D74/04-SSM整合/代码/ssmpro" />
+    <file type="web" url="file://$PROJECT_DIR$/../shop-ms/shop-ms-web" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="C:/HZ JAVA/D74/04-SSM整合/代码/ssmpro/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-ms/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../shop-ms/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-ms/shop-ms-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-ms/shop-ms-dal/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-ms/shop-ms-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-ms/shop-ms-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-ms/shop-ms-web/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
